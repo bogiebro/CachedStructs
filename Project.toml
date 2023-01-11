@@ -1,0 +1,7 @@
+name = "CachedStructs"
+uuid = "aa2c975f-028b-45dd-8365-590170aa54f9"
+authors = ["Sam Anklesaria <anklesaria@utexs.edu>"]
+version = "0.1.0"
+
+[deps]
+MLStyle = "d8e11817-5142-5d16-987a-aa16d5891078"
